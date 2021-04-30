@@ -1,0 +1,15 @@
+body{
+    background: greenyellow;
+}
+
+tr{
+    font-size: 50px;
+}
+
+#buton{
+    color: black;
+}
+
+.MargenAbajo{
+    margin-bottom: 25px;
+}
